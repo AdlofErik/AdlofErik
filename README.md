@@ -1,5 +1,5 @@
-- Name: <ul>Phyo Thet Mg [KoAlpha]</ul>;
-- Fav Languages: C/C++ , Python, Rust;
+- Name:<h2>Phyo Thet Mg [KoAlpha]</h2>;
+- Fav Languages: <b>C/C++</b>, <p>Python</p>, <code>Rust</code>;
 - Field: BackEnd, Offensive Security ;
 - Currently Studying CS50x From Burma Academy;
 - Mail:8bytesx@gmail.com;
