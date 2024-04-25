@@ -1,9 +1,18 @@
-<h3>18yo Self-Taught Backend-Dev Form Union Of Burma</h3>
-- Fav Languages:<code>C/C++</code><code>Python</code><code>Rust</code>
+## <h3>18yo Self-Taught Backend-Dev Form Union Of Burma</h3>
 
-- Desktop Environment :Xfce4,kde;
-- Field: BackEnd, 🔓Offensive Security 
+## About Me
+- **Age:** 18
+- **Location:** Union of Burma
+  
+## Skills
+- **Languages:** C/C++, Python, Rust
+- **Field:** Backend Development, Offensive Security
 
-- Currently Studying CS50x From Burma Academy
+## Desktop Environment
+- Xfce4, KDE
+- 
+## Education
+- Currently studying CS50x from Burma Academy
 
-- Mail:💌8bytesx@gmail.com;
+## Contact
+- **Email💌:** 8bytesx@gmail.com
