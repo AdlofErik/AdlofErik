@@ -18,7 +18,7 @@
 - Currently pursuing Computer Science at Burma Academy
 
 ## Contact
-- **Email:** 8bytesx@gmail.com
+- **Email💌:** 8bytesx@gmail.com
 
 
 
