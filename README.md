@@ -7,4 +7,3 @@
 - Currently Studying CS50x From Burma Academy
 
 - Mail:💌8bytesx@gmail.com;
-
