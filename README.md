@@ -1,9 +1,12 @@
-- Name: Phyo Thet Mg [KoAlpha];
+- Name: <ul>Phyo Thet Mg [KoAlpha]</ul>;
 - Fav Languages: C/C++ , Python, Rust;
 - Field: BackEnd, Offensive Security ;
 - Currently Studying CS50x From Burma Academy;
 - Mail:8bytesx@gmail.com;
 - NickName: KoAlpha;
 - Political View:  Facisūm;
-- WW2:The Axis Power(🇩🇪🇯🇵🇮🇷)
-- Fav Hero:Emperor Hirohito;
+
+- Fav Hero & Allies:
+- Emperor Hirohito
+- The Axis Power(🇩🇪🇯🇵🇮🇷)
+- 
