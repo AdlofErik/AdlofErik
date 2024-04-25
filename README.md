@@ -8,9 +8,11 @@
 - **Languages:** C/C++, Python, Rust
 - **Field:** Backend Development, Offensive Security
 
-## Desktop Environment
+## Desktop Environment & W Managers
 - Xfce4, KDE
-- 
+- Xfwm , Xorg
+
+  
 ## Education
 - Currently studying CS50x from Burma Academy
 
