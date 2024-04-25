@@ -5,5 +5,5 @@
 - Mail:💌8bytesx@gmail.com;
 - Political View:  Facisūm;
 - Fav Hero & Allies:
-- Emperor Hirohito
-- The Axis Power(🇩🇪🇯🇵🇮🇷)
+<h4>Emperor Hirohito
+The Axis Power(🇩🇪🇯🇵🇮🇷)</h4>
