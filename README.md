@@ -5,7 +5,7 @@
 - **Names:** KoAlpha[Phyo Thet Mg]
 - **Age:** 18
 - **Location:** Union of Burma
-- **High School:** No(1)Basic Education High School Kawkareik
+- **Edu:** No(1)Basic Education High School Kawkareik
   
 ## Skills
 - **Languages:** C/C++, Python, Rust
