@@ -1,13 +1,13 @@
 ## <h3>18yo Self-Taught Backend-Dev Form Union Of Burma</h3>
 
 
-## About Me
-- **Names:** KoAlpha[Phyo Thet Mg]
+## About 
+- **Names:** Adlof Erik
 - **Age:** 18
-- **Location:** Union of Burma
-- **Edu:** No(1)Basic Education High School Kawkareik
+- **Location:** YANGON, Burma
+- **Edu:** No(1)Basic Education High School Kawkareik 
   
-## Skills
+## Skills 
 - **Languages:** C/C++, Python, Rust
 - **Field:** Backend Development, Offensive Security
 
